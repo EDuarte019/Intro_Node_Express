@@ -1,0 +1,6 @@
+{
+    "name": "Evi"
+}
+var jsonString = {
+    name: 'Evi'
+};
